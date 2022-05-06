@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Feedget" height="80" title="Plant Manager" src=".github/logo.png" />
+  <img alt="Feedget" height="200" title="Plant Manager" src=".github/logo.png" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 
 ## 💻 Projeto
-Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.
+Aplicação de para reportar possíveis erros, sugestões ou algum outro tipo de feedback para o site ou app mobile. Com funcionalidade de envio de e-mail do feedback com o tipo, comentário e screenshot da tela.
 
 ## ✨ Tecnologias
 
